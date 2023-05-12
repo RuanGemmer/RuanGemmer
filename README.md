@@ -1,17 +1,20 @@
 ### Welcome 👋
 
+###I'm Ruan Gemmer
+<hr>
 
+<h3>&nbsp;About me </h3>
 
-<h3>&nbsp;Sobre mim </h3>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions..
+- 🎓 &nbsp; Studying **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
+- 💼 &nbsp; Currently perfecting myself in systems development **outside the job market**.
+- 🌱 &nbsp; Learning more about **HTML, CSS, Java and JS**.
+<hr>
+<br>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Desenvolvimento de Sistemas** na <a href="https://www.univates.br/">UnivatesE</a>.
-- 💼 &nbsp; Atualmente me aperfeiçoando em desenvolvimento de sistemas **fora do mercado de trabalho**.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS, Java e JS**.
+<h3> :rocket: &nbsp;My Skills </h3>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+**Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,19 +23,20 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
+<br>
+<br>
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruangemmer/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: RuanGemmer](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruangemmer/)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-ruangemmer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruangemmer@hotmail.com)](mailto:ruangemmer@hotmail.com)
  <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551996861867"/></a>
