@@ -42,6 +42,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruangemmer@hotmail.com)](mailto:ruangemmer@hotmail.com)
  <a href="https://api.whatsapp.com/send?phone=5551996861867" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551996861867"/></a>
-  <a href="#https://www.instagram.com/ruangemmer/" alt="Instagram">
+  <a href="https://www.instagram.com/ruangemmer/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ruangemmer/"/></a>
 </p>
