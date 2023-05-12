@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-###I'm Ruan Gemmer
+### I'm Ruan Gemmer
 <hr>
 
 <h3>&nbsp;About me </h3>
@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions..
 - 🎓 &nbsp; Studying **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
 - 💼 &nbsp; Currently perfecting myself in systems development **outside the job market**.
-- 🌱 &nbsp; Learning more about **HTML, CSS, Java and JS**.
+- 🌱 &nbsp; Learning more about **HTML, CSS, Java** and **JS**.
 <hr>
 <br>
 
@@ -28,8 +28,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br>
-<br>
 <hr>
+<br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
@@ -43,5 +45,5 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ruangemmer/"/></a>
 </p>  
-[![GitHub RuanGemmer](https://github.com/RuanGemmer)](LINK-DO-SEU-GITHUB)
+[![GitHub RuanGemmer](https://github.com/RuanGemmer)](https://github.com/RuanGemmer)
 
