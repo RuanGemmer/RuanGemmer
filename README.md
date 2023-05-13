@@ -16,6 +16,7 @@
 
 <h3> :rocket: &nbsp;My Skills </h3>
 <br>
+
 **Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
