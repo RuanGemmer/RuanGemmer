@@ -32,8 +32,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangemmer&layout=pie)](https://github.com/ruangemmer/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangemmer&layout=compact)](https://github.com/ruangemmer/github-readme-stats)
 <br>
 <hr>
 
