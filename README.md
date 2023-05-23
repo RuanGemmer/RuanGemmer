@@ -9,14 +9,14 @@
 - 📚 &nbsp; Studying **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
 - 🎓 &nbsp; Graduated **Chemical Engineer** at <a href="https://www.univates.br/">Univates</a>.
 - 💼 &nbsp; Currently perfecting myself in systems development **outside the job market**.
-- 🌱 &nbsp; Learning more about **HTML, CSS, Java** and **JS**.
+- 🌱 &nbsp; Learning more about **HTML5, CSS, Java, Python** and **JS**.
 - 📈 &nbsp; **Investor** in spare time. ANBIMA CPA-20 Certificate.
 <hr>
 
 
 <h3> :rocket: &nbsp;My Skills </h3>
 <br>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Image Computador ruangemmer">
 **Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -38,7 +38,12 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangemmer&layout=compact)](https://github.com/ruangemmer/github-readme-stats)
+
+<div align = "center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangemmer&layout=pie)](https://github.com/ruangemmer/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruangemmer)](https://github.com/ruangemmer/github-readme-stats)
+ 
 <br>
 <hr>
 
