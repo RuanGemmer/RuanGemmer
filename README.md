@@ -17,6 +17,7 @@
 <h3> :rocket: &nbsp;My Skills </h3>
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Image Computador ruangemmer">
+
 **Applications and Data**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
