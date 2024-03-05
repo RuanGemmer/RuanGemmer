@@ -6,10 +6,10 @@
 <h3>&nbsp;About me </h3>
 
 - 💪🏼 &nbsp; Exploring new technologies and developing software solutions...
+- 💼 &nbsp; **Full stack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce</a>.
 - 📚 &nbsp; Studying **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
 - 🎓 &nbsp; Graduated **Chemical Engineer** at <a href="https://www.univates.br/">Univates</a>.
-- 💼 &nbsp; Currently perfecting myself in systems development **outside the job market**.
-- 🌱 &nbsp; Learning more about **HTML5, CSS, Java, Python** and **JS**.
+- 🌱 &nbsp; Learning more about **HTML5, CSS, PHP, JS** and **Solidity/Web3/Blockchain**.
 - 📈 &nbsp; **Investor** in spare time. ANBIMA CPA-20 Certificate.
 <hr>
 
@@ -21,6 +21,8 @@
 
   **📋 Languages**
 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
