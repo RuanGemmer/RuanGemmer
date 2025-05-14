@@ -6,7 +6,7 @@
 <h3>&nbsp;About me </h3>
 
 - 💪🏼 &nbsp; Exploring new technologies and building software solutions...
-- 💼 &nbsp; **Full stack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce by Magazord</a>.
+- 💼 &nbsp; **Fullstack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce by Magazord</a>.
 - 📚 &nbsp; Degree in **Systems Development** from <a href="https://www.univates.br/">Univates</a>.
 - 🎓 &nbsp; Degreein **Chemical Engineer** from <a href="https://www.univates.br/">Univates</a>.
 - 🌱 &nbsp; Currently learning more about **HTML5, CSS, PHP, JS** and **Solidity/Web3/Blockchain**.
