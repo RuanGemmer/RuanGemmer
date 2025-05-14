@@ -6,8 +6,8 @@
 <h3>&nbsp;About me </h3>
 
 - 💪🏼 &nbsp; Exploring new technologies and developing software solutions...
-- 💼 &nbsp; **Full stack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce</a>.
-- 📚 &nbsp; Studying **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
+- 💼 &nbsp; **Full stack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce by Magazord</a>.
+- 📚 &nbsp; Graduated **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
 - 🎓 &nbsp; Graduated **Chemical Engineer** at <a href="https://www.univates.br/">Univates</a>.
 - 🌱 &nbsp; Learning more about **HTML5, CSS, PHP, JS** and **Solidity/Web3/Blockchain**.
 - 📈 &nbsp; **Investor** in spare time. ANBIMA CPA-20 Certificate.
