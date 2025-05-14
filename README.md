@@ -5,12 +5,12 @@
 
 <h3>&nbsp;About me </h3>
 
-- 💪🏼 &nbsp; Exploring new technologies and developing software solutions...
+- 💪🏼 &nbsp; Exploring new technologies and building software solutions...
 - 💼 &nbsp; **Full stack developer** at <a href="https://www.bwcommerce.com.br/">BW Commerce by Magazord</a>.
-- 📚 &nbsp; Graduated **Systems Development** at <a href="https://www.univates.br/">Univates</a>.
-- 🎓 &nbsp; Graduated **Chemical Engineer** at <a href="https://www.univates.br/">Univates</a>.
-- 🌱 &nbsp; Learning more about **HTML5, CSS, PHP, JS** and **Solidity/Web3/Blockchain**.
-- 📈 &nbsp; **Investor** in spare time. ANBIMA CPA-20 Certificate.
+- 📚 &nbsp; Degree in **Systems Development** from <a href="https://www.univates.br/">Univates</a>.
+- 🎓 &nbsp; Degreein **Chemical Engineer** from <a href="https://www.univates.br/">Univates</a>.
+- 🌱 &nbsp; Currently learning more about **HTML5, CSS, PHP, JS** and **Solidity/Web3/Blockchain**.
+- 📈 &nbsp; **Investor** in my spare time | ANBIMA CPA-20 certified.
 <hr>
 
 
@@ -51,7 +51,7 @@
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  
   
   **🕓 Version Control**
   
@@ -60,6 +60,9 @@
 
   **Others**
   
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
